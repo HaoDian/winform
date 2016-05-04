@@ -16,6 +16,7 @@ namespace WindowsFormsApplication3
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //win10电脑修改
         }
     }
 }
