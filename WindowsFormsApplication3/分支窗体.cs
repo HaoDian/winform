@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication3
+{
+    public partial class 分支窗体 : Form
+    {
+        public 分支窗体()
+        {
+            InitializeComponent();
+        }
+    }
+}
